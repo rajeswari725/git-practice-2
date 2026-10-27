@@ -17,3 +17,6 @@
 
 ## feature1/readme code starting..
 - learning git branches
+
+## feature2/readme code starting..
+- learning pull requests
