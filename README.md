@@ -13,3 +13,4 @@
 
 ## Technologies
 - Python
+- SQL
