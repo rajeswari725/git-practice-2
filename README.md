@@ -10,3 +10,6 @@
 - tracking changes 
 - creating commits
 - pushing changes to github
+
+## Technologies
+- Python
