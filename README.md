@@ -14,3 +14,6 @@
 ## Technologies
 - Python
 - SQL
+
+## feature1/readme code starting..
+- learning git branches
