@@ -30,3 +30,6 @@
 - learning local merge and push to github
 
 - Practising feature5 branch and pull request workflow
+
+## Local Merge Practice
+- Practicing a local feature branch merge
