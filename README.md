@@ -26,6 +26,7 @@
 - learning pull requests
 
 ## feature4/readme code starting..
+
 - created on local f4 branch
 - learning local merge and push to github
 
@@ -33,3 +34,5 @@
 
 ## Local Merge Practice
 - Practicing a local feature branch merge
+
+- Teammate update: fixed a project documentation issue.   
