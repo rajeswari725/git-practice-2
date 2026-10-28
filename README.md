@@ -20,3 +20,7 @@
 
 ## feature2/readme code starting..
 - learning pull requests
+
+## feature3/readme code starting..
+- created on local f3 branch
+- learning pull requests
