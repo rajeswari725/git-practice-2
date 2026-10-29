@@ -36,3 +36,6 @@
 - Practicing a local feature branch merge
 
 - Teammate update: fixed a project documentation issue.   
+
+## conflict practice
+- Conflict practice: Original version from feature5.
